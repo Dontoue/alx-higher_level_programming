@@ -1,11 +1,11 @@
-#Python - Hello, World
+# Python - Hello, World
 
 In this project, I began practicing using the interpreter, printing text and variables, and indexing and slicing strings in Python.
 
-#Tests ✔️
+# Tests ✔️
 
 tests: Folder of test files. Provided by Holberton School.
-#Function Prototypes 💾
+# Function Prototypes 💾
 Prototypes for functions written in this project:
 
 File	Prototype
@@ -14,7 +14,7 @@ File	Prototype
 
 102-magic_calculation.py	def magic_calculation(a, b):
 
-#Tasks 📃
+# Tasks 📃
 
 0. Run Python File
 
