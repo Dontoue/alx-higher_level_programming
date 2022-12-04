@@ -3,67 +3,66 @@ In this project, I began practicing using the interpreter, printing text and var
 
 ## Tests âœ”ï¸
 tests: Folder of test files. Provided by Holberton School.
-## Function Prototypes ðŸ’¾
+Function Prototypes ðŸ’¾
 Prototypes for functions written in this project:
 
-## File	               Prototype
+## File	Prototype
 10-check_cycle.c	int check_cycle(listint_t *list);
 102-magic_calculation.py	def magic_calculation(a, b):
-
 ## Tasks ðŸ“ƒ
-â€¢ 0. Run Python File
+0. Run Python File
 
-Â 0-run: Bash script that runs a Python script file saved in the environment variable $PYFILE.
-â€¢ 1. Run inline
+0-run: Bash script that runs a Python script file saved in the environment variable $PYFILE.
+1. Run inline
 
-Â 1-run_inline: Bash script that runs Python code saved in the environment variable $PYCODE.
-â€¢ 2. Hello, print
+1-run_inline: Bash script that runs Python code saved in the environment variable $PYCODE.
+2. Hello, print
 
-Â 2-print.py: Python script that prints exactly "Programming is like building a multilingual puzzle, followed by a new line using the function print.
+2-print.py: Python script that prints exactly "Programming is like building a multilingual puzzle, followed by a new line using the function print.
 3. Print integer
 
-Â 3-print_number.py: Python script that prints the integer stored in the variable number, followed by Battery street, followed by a new line.
-Â Completion of this source code.
-â€¢ 4. Print float
-
-Â 4-print_float.py: Python script that prints the float stored in the variable number with a precision of two digits.
+3-print_number.py: Python script that prints the integer stored in the variable number, followed by Battery street, followed by a new line.
 Completion of this source code.
-â€¢ 5. Print string
+4. Print float
 
-Â 5-print_string.py: Python script that prints a string stored in the variable str three times, then a new line, then the first nine characters contained in str, followed by another new line.
-Â Completion of this source code.
-â€¢ 6. Play with strings
+4-print_float.py: Python script that prints the float stored in the variable number with a precision of two digits.
+Completion of this source code.
+5. Print string
 
-Â 6-concat.py: Python script that prints Welcome to Holberton School! using the variables str1 = "Holberton" and str2 = "School".
-Â Completion of this source code.
-â€¢ 7. Copy - Cut - Paste
+5-print_string.py: Python script that prints a string stored in the variable str three times, then a new line, then the first nine characters contained in str, followed by another new line.
+Completion of this source code.
+6. Play with strings
 
-Â 7-edges.py: Python script that sets three string variables based on the string contained in the variable word as follows:
-Â word_first_3: Contains the first three letters of the variable word.
-Â word_last_2: Contains the last two letters of the variable word.
-Â middle_word: Contains the value of the variable word without the first and last letters.
-Â Completion of this source code.
-â€¢ 8. Create a new sentence
+6-concat.py: Python script that prints Welcome to Holberton School! using the variables str1 = "Holberton" and str2 = "School".
+Completion of this source code.
+7. Copy - Cut - Paste
 
-Â 8-concat_edges.py: Python script that prints object-oriented programming with Python, followed by a new line without creating new variables or string literals.
-Â Completion of this source code.
-â€¢ 9. Easter Egg
+7-edges.py: Python script that sets three string variables based on the string contained in the variable word as follows:
+word_first_3: Contains the first three letters of the variable word.
+word_last_2: Contains the last two letters of the variable word.
+middle_word: Contains the value of the variable word without the first and last letters.
+Completion of this source code.
+8. Create a new sentence
 
-Â 9-easter_egg.py: Python script that prints "The Zen of Python" by Tim Peters, followed by a new line.
-â€¢ 10. Linked list cycle
+8-concat_edges.py: Python script that prints object-oriented programming with Python, followed by a new line without creating new variables or string literals.
+Completion of this source code.
+9. Easter Egg
 
-â€¢ 10-check_cycle.c: C function that checks if a linked list contains a cycle.
+9-easter_egg.py: Python script that prints "The Zen of Python" by Tim Peters, followed by a new line.
+10. Linked list cycle
+
+10-check_cycle.c: C function that checks if a linked list contains a cycle.
 Returns 0 if there is no cycle and 1 if there is.
-Â Helper files:
-Â linked_lists.c: C functions handling linked lists for testing 10-check_cycle.c (provided by Holberton School).
-Â lists.h: Header file containing definitions and prototypes for all types and functions used in linked_lists.c and 10-check_cycle.c.
-â€¢ 11. Hello, write
+Helper files:
+linked_lists.c: C functions handling linked lists for testing 10-check_cycle.c (provided by Holberton School).
+lists.h: Header file containing definitions and prototypes for all types and functions used in linked_lists.c and 10-check_cycle.c.
+11. Hello, write
 
-Â 100-write.py: Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line to stderr using the function write from the sys module.
-Â Exits with a status code of 1.
-â€¢ 12. Compile
+100-write.py: Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line to stderr using the function write from the sys module.
+Exits with a status code of 1.
+12. Compile
 
-Â 101-compile: Python script that compiles a Python script file stored in the environment variable $PYFILE and saves it to an output file $PYFILEc (ex. export PYFILE=my_main.py => output filename: my_main.pyc).
-â€¢ 13. ByteCode -> Python #1
+101-compile: Python script that compiles a Python script file stored in the environment variable $PYFILE and saves it to an output file $PYFILEc (ex. export PYFILE=my_main.py => output filename: my_main.pyc).
+13. ByteCode -> Python #1
 
-Â 102-magic_calculation.py: Python function matching exactly a bytecode provided by Holberton School.
+102-magic_calculation.py: Python function matching exactly a bytecode provided by Holberton School.
