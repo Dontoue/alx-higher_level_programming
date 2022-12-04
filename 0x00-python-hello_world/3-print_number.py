@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 number = 98
-(f"{98} Battery Street", number )
+print(f"{number:d} Battery street")
