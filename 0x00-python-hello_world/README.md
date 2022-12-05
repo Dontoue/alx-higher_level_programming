@@ -2,9 +2,6 @@
 
 In this project, I began practicing using the interpreter, printing text and variables, and indexing and slicing strings in Python.
 
-# Tests ✔️
-
-tests: Folder of test files. Provided by Holberton School.
 # Function Prototypes 💾
 Prototypes for functions written in this project:
 
