@@ -11,6 +11,9 @@ File    -------------------------------------  Prototype
 
 102-magic_calculation.py ----  ----  ----   ----	 def magic_calculation(a, b):
 
+# Test
+<test> :folder for test file.
+
 # Tasks 📃
 
 0. Run Python File
