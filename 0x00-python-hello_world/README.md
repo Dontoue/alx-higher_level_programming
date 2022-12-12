@@ -12,7 +12,7 @@ File    -------------------------------------  Prototype
 102-magic_calculation.py ----  ----  ----   ----	 def magic_calculation(a, b):
 
 # Test
-<test> :folder for test file.
+<nav>test</nav> :folder for test file.
 
 # Tasks 📃
 
