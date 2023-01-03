@@ -51,7 +51,7 @@ In this project, I learned about importing and using functions and creating modu
 • 7. Easy print
 
 	° 101-easy_print.py: Python program that prints #pythoniscool followed by a new line in the standard output.
- 	� Without using print, eval, open, or sys.
+ 	°Without using print, eval, open, or sys.
 
 • 8. ByteCode -> Python #3
 
