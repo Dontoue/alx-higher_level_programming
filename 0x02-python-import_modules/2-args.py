@@ -5,8 +5,9 @@
 if __name__ == "__main__":
     """prints the number of and the list of argument."""
     import sys
+
     count = len(sys.argv) - 1
-    if(count == 0):
+    if count == 0:
         print("0 arguments")
     elif count == 1:
         print("1 argument")
