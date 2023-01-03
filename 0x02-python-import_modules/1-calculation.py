@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# File: 1-calculation.py
-# Author: Donald Mwanga <donaldmwanga33@gmail.com>
+# 1-calculation.py
+# Donald Mwanga <donaldmwanga33@gmail.com>
 
 if __name__ == "__main__":
 
