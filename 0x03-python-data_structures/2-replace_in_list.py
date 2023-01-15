@@ -7,4 +7,4 @@ def replace_in_list(my_list, idx, element):
     """replaces and element of a list in specific position"""
     if idx >= 0 and idx < len(my_list):
         my_list[idx] = element
-        return (my_list)
+    return (my_list)
