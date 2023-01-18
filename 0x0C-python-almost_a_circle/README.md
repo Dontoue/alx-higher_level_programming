@@ -4,15 +4,25 @@ In this project, I encapsulated skills in Python object-oriented programming by 
 The three classes involved utilizing the following Python tools:
 
 • Import
+
 • Exceptions
+
 • Private attributes
+
 • Getter/setter
+
 • Class/static methods
+
 • Inheritance
+
 • File I/O
+
 • args/kwargs
+
 • JSON and CSV serialization/deserialization
+
 • Unittesting
+
 # Tests ✔️
 
 • tests/test_models: Folder containing the following independently-developed test files:
