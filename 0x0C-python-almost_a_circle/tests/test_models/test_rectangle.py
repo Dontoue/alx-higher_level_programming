@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # test_rectangle.py
-# Donald Mwanga <donaldmwanga33@gmail.com>
+# Donald Mwanga. <donaldmwanga33@gmail.com>
 """Defines unittests for models/rectangle.py.
 
 Unittest classes:
