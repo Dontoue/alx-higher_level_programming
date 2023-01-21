@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # test_square.py
-# Brennan D Baraban <375@holbertonschool.com>
+# Donald Mwanga <donaldmwanga33@gmail.com>
 """Defines unittests for models/square.py.
 
 Unittest classes:
