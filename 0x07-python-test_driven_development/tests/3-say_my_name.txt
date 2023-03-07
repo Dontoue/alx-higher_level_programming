@@ -15,8 +15,8 @@ Usage
 ::
 
     >>> say_my_name = __import__('3-say_my_name').say_my_name
-    >>> say_my_name("Donald", "Festo")
-    My name is Donald Festo
+    >>> say_my_name("Donald", "Mwanga")
+    My name is Donald Mwanga
 
 ::
 
@@ -29,7 +29,7 @@ an empty string is printed instead.
 ::
 
     >>> say_my_name("Donald")
-    My name is Donald
+    My name is Donald 
 
 Invalid Names
 =============
